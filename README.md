@@ -3,7 +3,7 @@ hi im Zin eddine
 studying computer science 
 and web developper 
 i guess that's all you need to know for now 
-btw one of a kind
+
 
 <!---
 ZinEddinee/ZinEddinee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
